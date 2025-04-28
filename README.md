@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Psychologist with PhD in Human Computer Interaction<br>📈 Aspiring Data Analyst<br>👩‍💻 I help you understand human behaviour through data<br>
+🧠 Psychologist with PhD in Human Computer Interaction<br>📈 Aspiring ML Engineer<br>👩‍💻 I help you understand human behaviour through data<br>
 
 
 ## 🌐 Socials:
